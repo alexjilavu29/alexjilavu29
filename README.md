@@ -3,7 +3,7 @@
 I'm Alex, poised at the intersection of Computer Science and Economic Cybernetics as a final year student. With a passion for programming and data analysis, I'm 21 years young and eager to discover more and more of the tech world by the day.
 
 ## About Me
-- 🎓 Education: Final year for Computer Science & Economic Cybernetics Bachelor's Degree
+- 🎓 Education: Final year for Computer Science Bachelor's Degree & Economic Cybernetics Bachelor's Degree
 - 🌍 From: Romania, based in Bucharest
 - 🧑‍💼 Career Objective: Seeking full-time roles in Computer Science
 
