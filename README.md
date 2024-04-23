@@ -1,10 +1,10 @@
 # Welcome to My Profile! 👋
 
-I'm Alex Jilavu, poised at the intersection of Computer Science and Economic Cybernetics as a final year student. With a passion for programming and data analysis, I'm 21 years young and eager to make my mark in the tech world.
+I'm Alex, poised at the intersection of Computer Science and Economic Cybernetics as a final year student. With a passion for programming and data analysis, I'm 21 years young and eager to discover more and more of the tech world by the day.
 
 ## About Me
-- 🎓 Education: Final year in Computer Science & Economic Cybernetics
-- 🌍 From: Romania
+- 🎓 Education: Final year for Computer Science & Economic Cybernetics Bachelor's Degree
+- 🌍 From: Romania, based in Bucharest
 - 🧑‍💼 Career Objective: Seeking full-time roles in Computer Science
 
 ## Featured Projects
@@ -21,8 +21,8 @@ Below are some highlights from my portfolio. Feel free to explore these reposito
 ## Connect With Me
 Interested in discussing tech, projects, or potential job opportunities? Let's get in touch!
 
-- 📩 Email: [contact@alexjilavu.dev](mailto:contact@alexjilavu.dev)
-- 🔗 LinkedIn: [Alex Jilavu](#)
+- 📩 Email: [alexandrujilavu29@gmail.com](mailto:alexandrujilavu29@gmail.com)
+- 🔗 LinkedIn: [Alex Jilavu](#https://www.linkedin.com/in/alexandru-jilavu-b74009233/)
 
 Thank you for visiting, and I look forward to collaborating on future innovations!
 
