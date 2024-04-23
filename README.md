@@ -11,7 +11,7 @@ I'm Alex, poised at the intersection of Computer Science and Economic Cybernetic
 Interested in discussing tech, projects, or potential job opportunities? Let's get in touch!
 
 - 📩 Email: [alexandrujilavu29@gmail.com](mailto:alexandrujilavu29@gmail.com)
-- 🔗 LinkedIn: [Alex Jilavu](https://www.linkedin.com/in/alexandru-jilavu-b74009233/)
+- 🔗 LinkedIn: [Alexandru Jilavu](https://www.linkedin.com/in/alexandru-jilavu-b74009233/)
 
 ## Featured Projects
 Below are some highlights from my portfolio. Feel free to explore these repositories to get a sense of my work and approach.
