@@ -14,7 +14,7 @@ Interested in discussing tech, projects, or potential job opportunities? Let's g
 - 🔗 LinkedIn: [Alexandru Jilavu](https://www.linkedin.com/in/alexandru-jilavu-b74009233/)
 
 ## Featured Projects
-Below are some highlights from my portfolio. Feel free to explore these repositories to get a sense of my work and approach.
+Below are some highlights from my portfolio. Feel free to explore my repositories to get a sense of my work and approach. All repositories on my profile have an English version (🇬🇧) and a Roumanian version (🇷🇴) of the README.md file, to get a sense of the functionalities and objectives of the project or application displayed.
 
 Thank you for visiting, and I look forward to collaborating on future innovations!
 
