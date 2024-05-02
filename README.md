@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-I'm Alex, poised at the intersection of Computer Science and Economic Cybernetics as a final year student. With a passion for programming and data analysis, I'm 21 years young and eager to discover more and more of the tech world by the day.
+I'm Alex, a final-year student specializing in Computer Science and Economic Cybernetics. With a passion for programming and data analysis, I'm 21 years young and eager to discover more and more of the tech world by the day.
 
 ## About Me
 - 🎓 Education: Final year for **Computer Science Bachelor's Degree** & **Economic Cybernetics Bachelor's Degree**
