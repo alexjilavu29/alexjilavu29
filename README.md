@@ -4,7 +4,7 @@ I'm Alex, a final-year student specializing in Computer Science and Economic Cyb
 
 ## About Me
 - 🎓 Education: *Bachelor's Degree* in **Computer Science** & **Economic Cybernetics**
- - *First year student* for an **Artificial Intelligence Master's Degree**
+-- *First year student* for an **Artificial Intelligence Master's Degree**
 - 🌍 From: Romania, based in **Bucharest**
 - 🧑‍💼 Career Objective: Seeking **full-time roles** in Computer Science
 
