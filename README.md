@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-I'm Alex, a final-year student specializing in Computer Science and Economic Cybernetics. With a passion for programming and data analysis, I'm 21 years young and eager to discover more and more of the tech world by the day.
+I'm Alex, a final-year student specializing in Computer Science and Economic Cybernetics. With a passion for programming and data analysis, I'm 22 years old and eager to discover more and more of the tech world by the day.
 
 ## About Me
 - 🎓 Education: *Bachelor's Degree* in **Computer Science** & **Economic Cybernetics**
