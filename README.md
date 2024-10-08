@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-I'm Alex, a final-year student specializing in Computer Science and Economic Cybernetics. With a passion for programming and data analysis, I'm 22 years old and eager to discover more and more of the tech world by the day.
+I'm Alex, a first-year Master's student specializing in Artificial Intelligence. With a passion for programming and data analysis, I'm 22 years old and eager to discover more and more of the tech world by the day.
 
 ## About Me
 - 🎓 Education: *Bachelor's Degree* in **Computer Science** & **Economic Cybernetics**
@@ -18,7 +18,7 @@ Interested in discussing tech, projects, or potential job opportunities? Let's g
 Below are some highlights from my portfolio. Feel free to explore my repositories to get a sense of my work and approach. 
 Most of the repositories on my profile have **an English 🇬🇧 version** and **a Roumanian 🇷🇴 version** of the README.md file, to get a sense of the functionalities and objectives of the project or application displayed.
 
-🇷🇴 **Aproape toate repository-urile postate pe profilul meu au o versiune în limba română a descrierii și a modului de utilizare a proiectului. Aceasta se poate găsi spre finalul fișierelor de tip ```README.md```.**
+🇷🇴 **Majoritatea proiectelor postate pe profilul meu au o versiune în limba română a descrierii și a modului de utilizare. Aceasta se poate găsi spre finalul fișierelor ```README.md```.**
 
 `Thank you for visiting, and I look forward to collaborating on future innovations!`
 
