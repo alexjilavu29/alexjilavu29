@@ -3,7 +3,7 @@
 I'm Alex, a first-year Master's student specializing in Artificial Intelligence. With a passion for programming and data analysis, I'm 22 years old and eager to discover more and more of the tech world by the day.
 
 ## About Me
-- 🎓 Education: *Bachelor's Degree* in **Computer Science** & **Economic Cybernetics**
+- 🎓 Education: *Bachelor's Degrees* in **Computer Science** & **Economic Cybernetics**
   - First year student for a *Master's Degree* in **Artificial Intelligence**
 - 🌍 From: Romania, based in **Bucharest**
 - 🧑‍💼 Career Objective: Seeking **full-time roles** in Computer Science
